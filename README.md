@@ -1,3 +1,3 @@
-# Blog Template with admin panel using PHP and MySQL #
+# Blog Template #
 
-This is a blog site and its created in raw php
+Blog Template with admin panel using PHP and MySQL 
